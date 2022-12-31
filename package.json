@@ -1,0 +1,29 @@
+{
+  "name": "listen-event-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshBarty007/listen-event-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshBarty007/listen-event-server/issues"
+  },
+  "homepage": "https://github.com/AshBarty007/listen-event-server#readme",
+  "dependencies": {
+    "@nestjs/axios": "^1.0.1",
+    "@nestjs/common": "^9.2.1",
+    "@nestjs/core": "^9.2.1",
+    "@nestjs/platform-express": "^9.2.1",
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.7.2",
+    "mongodb": "^4.13.0"
+  }
+}
